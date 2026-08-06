@@ -1,1 +1,7 @@
-
+*.exe
+*.hex
+*.elf
+*.o
+*.tmp
+*.bak
+*.zip
