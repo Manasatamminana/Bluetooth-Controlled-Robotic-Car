@@ -9,3 +9,6 @@ This folder contains the circuit diagram and wiring details for the Bluetooth Co
 - L298N Motor Driver
 - DC Motors
 - Battery Pack
+
+circuit diagram will be inserted here.
+
